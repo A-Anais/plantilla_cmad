@@ -6,6 +6,11 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://github.com/A-Anais/plantilla_cmad/Selection/</loc>
+         <lastmod>2023-10-31</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://github.com/A-Anais/plantilla_cmad/__init__/</loc>
          <lastmod>2023-10-31</lastmod>
          <changefreq>daily</changefreq>
